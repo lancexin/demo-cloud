@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-cloud.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-config-server/demo-config-server.iml" filepath="$PROJECT_DIR$/demo-config-server/demo-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-config-server_main.iml" group="demo-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-config-server_test.iml" group="demo-config-server" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka/demo-eureka.iml" filepath="$PROJECT_DIR$/demo-eureka/demo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka-client/demo-eureka-client.iml" filepath="$PROJECT_DIR$/demo-eureka-client/demo-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-eureka-client2/demo-eureka-client2.iml" filepath="$PROJECT_DIR$/demo-eureka-client2/demo-eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-eureka-client2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-eureka-client2_main.iml" group="demo-eureka-client2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-eureka-client2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-eureka-client2_test.iml" group="demo-eureka-client2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-eureka-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-eureka-client_main.iml" group="demo-eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-eureka-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-eureka-client_test.iml" group="demo-eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-eureka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-eureka_main.iml" group="demo-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-eureka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-eureka_test.iml" group="demo-eureka" />
+      <module fileurl="file://$PROJECT_DIR$/demo-feign/demo-feign.iml" filepath="$PROJECT_DIR$/demo-feign/demo-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-feign_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-feign_main.iml" group="demo-feign" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-feign_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-feign_test.iml" group="demo-feign" />
+      <module fileurl="file://$PROJECT_DIR$/demo-ribbon/demo-ribbon.iml" filepath="$PROJECT_DIR$/demo-ribbon/demo-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-ribbon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-ribbon_main.iml" group="demo-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-ribbon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-ribbon_test.iml" group="demo-ribbon" />
+      <module fileurl="file://$PROJECT_DIR$/demo-security/demo-security.iml" filepath="$PROJECT_DIR$/demo-security/demo-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-security_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-security_main.iml" group="demo-security" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-security_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-security_test.iml" group="demo-security" />
+      <module fileurl="file://$PROJECT_DIR$/demo-zuul/demo-zuul.iml" filepath="$PROJECT_DIR$/demo-zuul/demo-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-zuul_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-zuul_main.iml" group="demo-zuul" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-zuul_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-zuul_test.iml" group="demo-zuul" />
+    </modules>
+  </component>
+</project>
